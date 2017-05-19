@@ -33,7 +33,7 @@ theApp.controller('theCtrl', function($scope) {
     convertTo: 'Deal with a Devil',
     probability: 0.7,
     conversionCost: 100,
-    sellAmount: 1250,
+    sellAmount: 4000,
     sellActionCost: 1,
   }, {
     convertFrom: 'Deal with a Devil',
